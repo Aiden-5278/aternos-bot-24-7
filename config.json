@@ -1,6 +1,7 @@
 {
-	"ip":"fskhri.aternos.me",
-	"port": "25565",
-	"name": "AchanServer",
+	"ip":"SurvivalWorld-1uPb.aternos.me",
+	"port": "43462",
+	"name": "ServerStatusBot",
 	"auto-night-skip":"false"
 }
+
